@@ -1,0 +1,51 @@
+_repo: Null-ABC_18346
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dongen, H. R.
+    aliases:
+    - Van Dongen, Henry Richard
+    - Dongen, H. R. Van
+    - Dongen, van
+    birthdate: 1920
+    deathdate: 2010
+    gutenberg_agent_id: '26301'
+    url: http://www.gutenberg.org/2009/agents/26301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: McGuire, John Joseph
+    alias: McGuire, John J.
+    birthdate: 1917
+    deathdate: 1981
+    gutenberg_agent_id: '7954'
+    url: http://www.gutenberg.org/2009/agents/7954
+    wikipedia: http://en.wikipedia.org/wiki/John_J._McGuire
+  - agent_name: Piper, H. Beam
+    alias: Piper, Henry Beam
+    birthdate: 1904
+    deathdate: 1964
+    gutenberg_agent_id: '8301'
+    url: http://www.gutenberg.org/2009/agents/8301
+    wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
+description: After several atomic wars the illiterate majority blames 'knowledge'
+  for the damage. An intrigue by the literate minority leads to a civil war aiming
+  at the eventual restoration of universal literacy.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literacy -- Fiction'
+- !lcsh 'Nuclear warfare -- Social aspects -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Null-ABC
+url: http://www.gutenberg.org/ebooks/18346
