@@ -33,6 +33,8 @@ creator:
 description: After several atomic wars the illiterate majority blames 'knowledge'
   for the damage. An intrigue by the literate minority leads to a civil war aiming
   at the eventual restoration of universal literacy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18346#Null-ABC
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-05-08'
 gutenberg_type: Text
